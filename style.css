@@ -1,0 +1,21 @@
+.timer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer__block{
+  width: 50px;
+  height: 80px;
+  background-color: peru;
+  text-align: center;
+  margin: 0 5px;
+  padding: 40px 20px 20px 20px;
+}
+
+span{
+  font-size: 42px;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: 10px;
+}
